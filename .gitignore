@@ -1,0 +1,6 @@
+# Ignore files from Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Ignore images
+*.jpg
