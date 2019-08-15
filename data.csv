@@ -1,4 +1,4 @@
-ID,Long,Local Time
+cities,longitude,utc_offset
 Pape'ete,-149.5585,-11
 "Honolulu, HI",-157.8583,-11
 "Anchorage, AK",-149.9003,-9
